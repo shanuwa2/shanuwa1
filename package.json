@@ -1,7 +1,7 @@
 {
 "name": "shanuwa1",
 "version": "2.1.2",
-"description": "shanuwa1 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "shanuwa1 has been designed to make things easier and fun while using WhatsApp. ❤️👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name shanuwa1",
